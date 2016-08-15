@@ -1,0 +1,20 @@
+{
+  "name": "translationwords-tc",
+  "version": "1.0.0",
+  "description": "Lexical Keyword Checking Application Module for translationCore using translationWords Resource.",
+  "main": "View.js",
+  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unfoldingWord-dev/translationWords-tC.git"
+  },
+  "keywords": [
+    "translationWords"
+  ],
+  "author": "Wycliffe Associates",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unfoldingWord-dev/translationWords-tC/issues"
+  },
+  "homepage": "https://github.com/unfoldingWord-dev/translationWords-tC#readme"
+}
